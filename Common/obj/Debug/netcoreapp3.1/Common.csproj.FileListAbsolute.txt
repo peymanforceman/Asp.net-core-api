@@ -1,0 +1,12 @@
+/Users/peiman/code/MyApi/Common/bin/Debug/netcoreapp3.1/Common.deps.json
+/Users/peiman/code/MyApi/Common/bin/Debug/netcoreapp3.1/Common.dll
+/Users/peiman/code/MyApi/Common/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.csprojAssemblyReference.cache
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfoInputs.cache
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfo.cs
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.csproj.CoreCompileInputs.cache
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.dll
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.pdb
+/Users/peiman/code/MyApi/Common/bin/Debug/netcoreapp3.1/Common.runtimeconfig.json
+/Users/peiman/code/MyApi/Common/bin/Debug/netcoreapp3.1/Common.runtimeconfig.dev.json
+/Users/peiman/code/MyApi/Common/obj/Debug/netcoreapp3.1/Common.genruntimeconfig.cache

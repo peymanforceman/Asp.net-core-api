@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/peiman/code/MyApi/Data/Data.csproj": {}
+  },
+  "projects": {
+    "/Users/peiman/code/MyApi/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiman/code/MyApi/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/peiman/code/MyApi/Common/Common.csproj",
+        "packagesPath": "/Users/peiman/.nuget/packages/",
+        "outputPath": "/Users/peiman/code/MyApi/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Pluralize.NET": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/peiman/code/MyApi/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiman/code/MyApi/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/peiman/code/MyApi/Data/Data.csproj",
+        "packagesPath": "/Users/peiman/.nuget/packages/",
+        "outputPath": "/Users/peiman/code/MyApi/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/peiman/code/MyApi/Entities/Entities.csproj": {
+                "projectPath": "/Users/peiman/code/MyApi/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/peiman/code/MyApi/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/peiman/code/MyApi/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/peiman/code/MyApi/Entities/Entities.csproj",
+        "packagesPath": "/Users/peiman/.nuget/packages/",
+        "outputPath": "/Users/peiman/code/MyApi/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/peiman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/peiman/code/MyApi/Common/Common.csproj": {
+                "projectPath": "/Users/peiman/code/MyApi/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

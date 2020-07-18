@@ -1,0 +1,14 @@
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Data.dll
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Common.dll
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/peiman/code/MyApi/Data/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.dll
+/Users/peiman/code/MyApi/Data/obj/Debug/netcoreapp3.1/Data.pdb
